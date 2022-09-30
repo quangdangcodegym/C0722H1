@@ -1,0 +1,8 @@
+// tao class va doi tuong bang cach
+
+XeDien xedienmoi = new XeDien() {
+            @Override
+            void chay() {
+                System.out.println("Contructor xe dien moi");
+            }
+        };

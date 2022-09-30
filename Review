@@ -1,0 +1,22 @@
+* tham trị, tham chiếu
++ biến local và biến instance
++ constructor
++ từ khóa this, super
++ acsses modifer: private, public, protected
++ overloading
++ override
++ từ khóa static: thuộc tính, phương thức, khối khởi tạo static
++ inner class, static inner class
++ Kế thừa
++ abstract 
++ interface
++ sự khác nhau abstract và interface
++ đa hình là gì?
++ ép kiểu ngầm định, tường minh?
++ lớp Object? phương thức toString()
++ linear search?
++ binanery search?
++ liệt kê một vài loại sort mà bạn biết, 
+diễn giải 1 loại mà bạn thành thạo?
++ 
+

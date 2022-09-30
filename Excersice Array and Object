@@ -1,0 +1,20 @@
+Trong kì thi học sinh giỏi gồm n học sinh ở Huế thuộc các trường: Quốc Học, HBT, Nguyễn Huệ 
+Học sinh gồm các thuộc tính: tên, tuổi, địa chỉ, điểm số, trường, Tỉnh Thành
+
+Yêu cầu:
+Khởi tạo danh sách học sinh, sau đó viết hàm
+	Tìm học sinh đầu tiên có điểm số là 10
+	Tìm học sinh có điểm số cao nhất kì thi Học sinh giỏi toán
+	Lấy ra 3 học sinh điểm cao nhất
+	Tính điểm trung bình của 1 trường khi người ta nhập vào: Quốc Học, HBT,..
+	Tìm ra những học sinh có điểm cao hơn 1 điểm nhập vào: 8,9,10
+	
+	
+- Tạo Class Student: 
+	tên, tuổi, địa chỉ, điểm số, trường, Tỉnh Thành
+- Tạo ra n đối tượng
+- Student[] list = 
+
+
+	
+	

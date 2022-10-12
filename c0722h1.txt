@@ -1,0 +1,25 @@
+this
+super
+contructor
+override: là gì, các đặc điểm
+overload
+lớp object: toString, equal, hashcode
+interface, abstract: đặc điểm, khi nào sử dụng abstract khi nào sài interface, so sánh sự khác nhau 
+với abstract
+final: dùng để làm gì? áp dụng ở đâu
+static: khối static, đặc điểm, phương thức static, thuộc tính static, lưu ý sử dụng
+biến instance
+biến local
+set, arraylist, hashmap, map là gì
+binary search, linear search: ?
+Interface: comparable, comparator
+Interace: serilization là gì
+string: imutable là gì
+stringbuilder, stringbuffer: khác gì so với string
+linkedlist, queue, stack: là gì
+Các lớp đọc ghi file nhị phân, các hàm cơ bản
+Các lớp đọc ghi file kí tự, các hàm cơ bản
+Các lớp đọc ghi file với buffer, các hàm cơ bản
+Sử lý ngoại lệ: try catch, throw, throws là gì 
+Kế thừa: các đặc điểm kế thừa
+ 
